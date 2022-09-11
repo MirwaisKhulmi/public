@@ -251,7 +251,7 @@ def kontol():
 
 	username = input("USERNAME : \033[: \033[1;92m")
 
-	if username =="HAFIZD-GANTENG":
+	if username =="AWM":
 
 		print("BERHASIL MASUK")
 
